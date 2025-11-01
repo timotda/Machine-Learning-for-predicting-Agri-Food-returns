@@ -78,4 +78,4 @@ The model was trained twice (once using all available features, and once using o
 
 ---
 
-**Contributors**: Timothé Dard,Christopher Soriano, Candice Busson, Marine De Rocquigny and Cyprien Tordo
+**Contributors**: Timothé Dard, Christopher Soriano, Candice Busson, Marine De Rocquigny and Cyprien Tordo
